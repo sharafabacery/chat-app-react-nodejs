@@ -1,0 +1,12 @@
+
+Realtime Chat Application. Technology:ERN APP (Express ,React, Nodejs) prequisite:install npm,node js
+
+In server dir:npm install(to install all server depn.) and cd client dir:npm install(to install all client depn.)
+
+cd config dir:create default.json for keys { "mongoURI":"YOUR_URL", "jwtSecret":"YOUR jwt secret", "githubClientID":"Your githubClientID", "githubSecret":"Your githubSecret"
+
+cd to server dir and type (npm run server) operate nodemon server cd to client dir of project and type (npm run start) After that go to
+ http://localhost:3000/
+Have fun!
+
+resourses: https://www.youtube.com/watch?v=ZwFA3YMfkoc
